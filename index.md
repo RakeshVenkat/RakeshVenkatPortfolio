@@ -1,4 +1,4 @@
-# Info on my github projects
+# Welcome to my github projects
 
 ## Website with native web-elments
 I built a website for a food delivery service called **Omnifood**.
