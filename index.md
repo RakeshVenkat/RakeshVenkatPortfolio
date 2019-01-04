@@ -1,6 +1,6 @@
 # Welcome to my github projects
 
-## Website with native web-elments
+## 1. Website with native web-elments
 I built a website for a food delivery service called **Omnifood**.
 
 **_Technologies used_**:  
@@ -12,41 +12,16 @@ I built a website for a food delivery service called **Omnifood**.
 [Github Source Code](https://github.com/rv-web-app-dev/omnifood)  
 [Try it out here!!](https://vynpzyo12y.codesandbox.io)
 
+## 2. Redux-Thunk examples
+I created two example API integration usecases for demonstrating the usage of Redux thunk middleware in a React application. This can now be used as a boilerplate for making any API calls using Redux Thunk.
+1. Real time weather data is obtained via [OpenWeather API](http://api.openweathermap.org/data/2.5/weather)
+2. Random images from [UnSplash API](https://api.unsplash.com/)
 
-## Welcome to GitHub Pages
+**_Technologies used_**:  
+- The application is bootstrapped with [Create React App](https://github.com/facebook/create-react-app) 
+- `axios` is being used for making the API calls.
+- `redux-thunk` as middleware.
 
-You can use the [editor on GitHub](https://github.com/RakeshVenkat/RakeshVenkatPortfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[Github Source Code](https://github.com/rv-web-app-dev/redux-thunk-examples)  
+[Try it out here!!](https://lp5lq7mzyl.codesandbox.io/images)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RakeshVenkat/RakeshVenkatPortfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
