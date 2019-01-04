@@ -1,7 +1,16 @@
 # Info on my github projects
 
 ## Website with native web-elments
-The following is a site I built using plain HTML, CSS and Javascript. This is a site for a food delivery service.
+I built a website for a food delivery service called **Omnifood**.
+
+**_Technologies used_**:  
+- Native web elements: `HTML`, `CSS`, `JavaScript`.
+- Standard CSS Transitions are used for the hover effects.
+- Used SVG icons and customized them using CSS styles.
+- Utilized high quality images and appropriate content for a professional look.
+
+[Github Source Code](https://github.com/rv-web-app-dev/omnifood)  
+[Try it out here!!](https://vynpzyo12y.codesandbox.io)
 
 
 ## Welcome to GitHub Pages
