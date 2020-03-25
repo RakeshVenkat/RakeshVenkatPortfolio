@@ -1,5 +1,10 @@
 # Welcome to my GitHub projects overview :)
 
+### Please Note: Workaround for `Try it out here!!` broken links.
+ The links I have shared below are from [codesandbox](https://codesandbox.io/). I have made sure these are working when I published it.
+ However, Codesandbox might change these urls!! (Apologies for that)
+ If the links are broken, I request you to import my github project in the same and you will ge able to get a active link to view my code and the active project. Thanks for understanding.
+
 ## 1. An employee dashboard, for a firm interested in their employee records.
 I built a single page dashboard for representing the employees of a company.
 
@@ -11,7 +16,7 @@ I built a single page dashboard for representing the employees of a company.
 - Application is responsive and hence can be used on mobility device resolutions.
 
 [GitHub Source Code](https://github.com/rv-web-app-dev/employee-dashboard)  
-[Try it out here!!](https://5wpnr48o2k.codesandbox.io/)
+[Try it out here!!](https://codesandbox.io/s/5wpnr48o2k)
 
 ## 2. A Country search application.
 I built a single page country search application with details about the country fetched from a back-end API.
@@ -23,7 +28,7 @@ I built a single page country search application with details about the country 
 - Type any country name slowly to get the results.
 
 [GitHub Source Code](https://github.com/rv-web-app-dev/CountrySearch)  
-[Try it out here!!](https://n5lmnw9zvm.codesandbox.io/)
+[Try it out here!!](https://codesandbox.io/s/youthful-williams-b183x)
 
 ## 3. Website with native web-elments
 I built a website for a food delivery service called **Omnifood**.
@@ -35,7 +40,7 @@ I built a website for a food delivery service called **Omnifood**.
 - Utilized high quality images and appropriate content for a professional look.
 
 [GitHub Source Code](https://github.com/rv-web-app-dev/omnifood)  
-[Try it out here!!](https://vynpzyo12y.codesandbox.io)
+[Try it out here!!](https://vynpzyo12y.codesandbox.io/)
 
 ## 4. Redux-Thunk examples
 I created two example API integration usecases for demonstrating the usage of Redux thunk middleware in a React application. This can now be used as a boilerplate for making any API calls using Redux Thunk.
@@ -48,7 +53,7 @@ I created two example API integration usecases for demonstrating the usage of Re
 - `redux-thunk` as middleware.
 
 [GitHub Source Code](https://github.com/rv-web-app-dev/redux-thunk-examples)  
-[Try it out here!!](https://lp5lq7mzyl.codesandbox.io/images)
+[Try it out here!!](https://codesandbox.io/s/lp5lq7mzyl)
 
 ## 5. A Reusable ListWebView react component:
 **Problem:** One of the most important usecase in most of the web applications is to render a list of items on the screen by reading from a data source (a file, an API call, etc..) The primary challenge we face is with the performance of the page as it needs to pull all the data at once and display that on the screen. We can use third party libraries to add pagination. However, is there a better way to solve this?   
