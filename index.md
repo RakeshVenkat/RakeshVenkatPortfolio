@@ -79,6 +79,12 @@ In this project I am using a mock flat file for the data, however this can be ch
 
 [GitHub Source Code](https://github.com/rv-web-app-dev/ListWebView)  
 
+# Wordpress site examples:
+## 1. Kids education center:
+ Created a sample wordpress site for a sample kids center.
+ 
+ [Access the site here](https://kinder106131195.wordpress.com/)
+
 ### Please Note: Workaround for `Try it out here!!` broken links.
  The links I have shared below are from [codesandbox](https://codesandbox.io/). I have made sure these are working when I published it.
  However, Codesandbox might change these urls!! (Apologies for that)
